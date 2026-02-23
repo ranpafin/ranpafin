@@ -57,10 +57,7 @@ const ranpafin = {
 ### `> neofetch --stats`
 
 <div align="center">
-
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=ranpafin&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=555555" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ranpafin&theme=2077&utcOffset=1" />
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" />
